@@ -1,0 +1,16 @@
+.top-wrapper{
+  background-image:url(thumb_77825_default_news_size_5.jpeg);
+  opacity:0.5;
+  text-align:center;
+
+}
+
+.top-wrapper h1{
+  color:red;
+  font-size:50px;
+
+}
+
+.top-wrapper p{
+  color:white;
+}
