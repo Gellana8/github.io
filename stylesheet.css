@@ -5,6 +5,7 @@
   background-size: cover;
   height:auto;
   padding:180px 0px;
+  color:white;
 
 }
 
@@ -14,18 +15,32 @@
 
 }
 
-.top-wrapper p{
-  color:white;
-}
+
 
 .btn{
   display:inline-block;
   opacity:0.8;
   border-radius:20px;
   padding:10px;
+  margin:10px;
 }
 
 .btn:hover{
   opacity:1;
-  size:100px;
+}
+
+.origi{
+  background-color:blue;
+}
+
+.Taki{
+  background-color:green;
+}
+
+.double{
+  background-color:orange;
+}
+
+.United{
+  background-color:pink;
 }
